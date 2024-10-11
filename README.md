@@ -1,3 +1,5 @@
+![1600w-eEN5zzEf5VA](https://github.com/user-attachments/assets/24bedb72-585e-4e6e-96bf-c8cd03ad3fb8)
+
 # Hi there, I'm Abhishek V Pawar 👋
 
 I'm a passionate software developer and computer science student currently pursuing my Bachelor's in Computer Science. My interests lie in solving complex problems using technology, and I have experience working with scalable systems, machine learning, and building APIs.
