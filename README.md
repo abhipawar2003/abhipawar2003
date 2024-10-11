@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @abhipawar2003
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Abhishek V Pawar 👋
 
-<!---
-abhipawar2003/abhipawar2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software developer and computer science student currently pursuing my Bachelor's in Computer Science. My interests lie in solving complex problems using technology, and I have experience working with scalable systems, machine learning, and building APIs.
+
+---
+
+### 🌟 **About Me**
+- 🎓 **Education**: Bachelor of Technology in Computer Science @ PES University
+- 💼 **Seeking**: Software engineering roles (preferably in scalable systems or ML)
+- 🚀 **Tech Enthusiast** with a passion for learning and contributing to open-source projects
+- 🧠 **Interests**: Machine Learning, Scalable Systems, Cloud Technologies, API Development
+- 🏆 **Recognition**: Taluk level Kabaddi player
+
+---
+
+### 🔧 **Skills & Technologies**
+- **Programming Languages**: Java, Python, C++, SQL
+- **Machine Learning**: Random Forest, GNNs, Time Series Forecasting, Classification
+- **Web Development**: Flask, HTML, CSS, JavaScript, RabbitMQ
+- **Databases**: MongoDB, MySQL
+- **Tools**: Git, Docker, RabbitMQ
+- **Cloud Services**: AWS, Azure
+
+---
